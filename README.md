@@ -8,3 +8,6 @@ K-Nearest Neighbors is a machine learning technique and algorithm that can be us
 
 # Implementing Decision Tree on Diabtes dataset 
 Decision Tree is a type of algorithm that includes conditional ‘control’ statements to classify data. A decision tree starts at a single point (or ‘node’) which then branches (or ‘splits’) in two or more directions. Each branch offers different possible outcomes, incorporating a variety of decisions and chance events until a final outcome is achieved.
+
+# Implementing Random Forest Algorithm  on Diabetes dataset 
+Random forest is a commonly-used machine learning algorithm trademarked by Leo Breiman and Adele Cutler, which combines the output of multiple decision trees to reach a single result. Its ease of use and flexibility have fueled its adoption, as it handles both classification and regression problems.
