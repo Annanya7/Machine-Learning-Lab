@@ -5,3 +5,6 @@ Apriori is an algorithm, which uses an iterative approach to find frequent items
 
 # Prediction of Purchasing an Item based on age and salary Using KNN 
 K-Nearest Neighbors is a machine learning technique and algorithm that can be used for both regression and classification tasks. K-Nearest Neighbors examines the labels of a chosen number of data points surrounding a target data point, in order to make a prediction about the class that the data point falls into. K-Nearest Neighbors (KNN) is a conceptually simple yet very powerful algorithm.
+
+# Implementing Decision Tree on Diabtes dataset 
+Decision Tree is a type of algorithm that includes conditional ‘control’ statements to classify data. A decision tree starts at a single point (or ‘node’) which then branches (or ‘splits’) in two or more directions. Each branch offers different possible outcomes, incorporating a variety of decisions and chance events until a final outcome is achieved.
